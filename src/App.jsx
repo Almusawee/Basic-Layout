@@ -9,7 +9,7 @@ function App() {
       <div>
         <HiOutlineHome  className='' />
       </div>
-      <h1>Wecome t NorthBy</h1>
+      <h1>Wecome to NorthBy</h1>
       <h2>A premium in sight and sound</h2>
       <button>Learn more</button>
     </div>
